@@ -1,5 +1,5 @@
 # brain-of-infrared-rework-station
-This project aims to create an inexpensive controller for controlling a contactless soldering system using infrared radiation
+This project aims to create an inexpensive controller for controlling a contactless soldering system using infrared radiation.
 Корни этого проекта направляются к видеоролику по ссылке: 
 (https://www.youtube.com/watch?v=_YlqswsgasU) и, немного позднее, в Грецию по ссылке 
 (http://liliumjsn.blogspot.com/2014/10/arduino-rework-station.html).
